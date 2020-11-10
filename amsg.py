@@ -27,6 +27,7 @@ while True:
 
 	if posAtual == posAnterior:
 		
+		# mensagem a ser enviada
 		kb.type("Mensagem automática: A aula começará em breve, aguarde.")
 		
 		kb.press(Key.enter)
