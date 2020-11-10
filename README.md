@@ -1,2 +1,3 @@
 # auto_msg
-Automação de mensagens com Python
+
+Manda a mesma mensagem repetidamente em intervalos de tempo constantes.
